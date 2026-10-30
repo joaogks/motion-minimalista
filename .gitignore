@@ -1,0 +1,10 @@
+# Paid deliverables and production sources are local/private only.
+/produto/
+/aula/
+/private/
+/dist/
+/.wrangler/
+node_modules/
+.env
+.env.*
+*.log
