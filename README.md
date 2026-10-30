@@ -1,13 +1,13 @@
-# Motion Minimalista com IA
+# Fim da Timeline
 
-Landing pública: https://motionia.pages.dev/
+Landing pública: https://fimdatimeline.pages.dev/
 
 Este repositório contém somente a página comercial e os exemplos públicos autorizados. Skill, prompts, guias e videoaula são entregues privadamente pela Kiwify e não devem entrar no histórico Git nem em `site/`.
 
 ## Publicar
 
 ```sh
-npx wrangler pages deploy site --project-name motionia --branch main
+npx wrangler pages deploy site --project-name fimdatimeline --branch main
 ```
 
 O projeto Cloudflare Pages foi criado com **deploy direto**. Um push no GitHub, por si só, não publica mudanças. Faça o deploy acima e confira a URL real depois.
